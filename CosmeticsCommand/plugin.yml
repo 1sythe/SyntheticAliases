@@ -1,0 +1,6 @@
+name: CosmeticsCommand
+author: Infernoxx
+main: de.infernoxx.cosmeticscommand.main.Main
+version: 1.0
+commands:
+  cm:
