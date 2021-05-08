@@ -1,4 +1,4 @@
-package de.infernoxx.cosmeticscommand.commands;
+package de.infernoxx.syntheticaliases.commands;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
@@ -12,7 +12,6 @@ public class AliasCommand implements CommandExecutor {
 		if(sender instanceof Player) {
 			Player player = (Player) sender;
 			player.chat("/pc open main");
-			
 		}
 		return false;
 	}
