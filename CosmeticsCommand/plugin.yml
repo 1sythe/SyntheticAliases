@@ -1,6 +1,8 @@
 name: CosmeticsCommand
 author: Infernoxx
-main: de.infernoxx.cosmeticscommand.main.Main
+main: de.infernoxx.syntheticaliases.main.Main
 version: 1.0
 commands:
   cm:
+  credits:
+  topcredits:
